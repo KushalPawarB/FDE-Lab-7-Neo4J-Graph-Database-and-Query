@@ -47,17 +47,4 @@ CRUD operations (Create, Read, Update, Delete) and analytical queries are perfor
 
 ---
 
-## 📁 **Repository Structure**
-```
-📁 Neo4j_Lab_Ex7_ShopSmart
- ├── README.md
- ├── CREATE_QUERIES.txt
- ├── QUERY_QUERIES.txt
- ├── UPDATE_QUERIES.txt
- ├── DELETE_QUERIES.txt
- ├── ANALYTICAL_QUERIES.txt
- └── screenshots/
-       ├── graph_visualization.png
-       ├── query_results.png
-       └── dashboard_view.png
-```
+
